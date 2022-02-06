@@ -1,0 +1,22 @@
+img {
+	width:250px;
+	border:2px solid pink;
+}
+
+body{
+	background-color:#FAEBD7;
+	font-family:Ariel;
+
+}
+
+.red{	
+color:red;
+}
+.big-font{
+	font-size:39px;
+}
+	#spacialstylr{
+		border:2px solid red;
+		background-color:yellow;
+	}
+	
